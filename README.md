@@ -20,6 +20,7 @@
 
 ### Tampilan Search — saat ada hasil
 [<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/eccf3b38-cad7-4dda-afc7-31b1fe700a9d" />
+
 <img width="1080" height="2412" alt="image" src="https://github.com/user-attachments/assets/7cfd4e68-7444-4f9b-8cea-b9922918fea4" />]
 
 ### Tampilan Empty State — saat tidak ada hasil
