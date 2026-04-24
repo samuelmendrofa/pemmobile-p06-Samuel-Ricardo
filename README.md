@@ -1,7 +1,5 @@
-# ShopList App - Pemrograman Mobile Pertemuan 6
-
 ## Nama & NIM
-- Nama: [Nama Kamu]
+- Nama: [Samuel Ricardo Mendrofa]
 - NIM:  [243303621285]
 
 ## Fitur yang Diimplementasikan
@@ -11,20 +9,21 @@
 - [x] ListEmptyComponent (empty state)
 - [x] Search / Filter real-time
 - [x] Pull-to-Refresh
-- [ ] Filter Kategori (E1) — isi jika dikerjakan
-- [ ] Toggle List/Grid View (E2) — isi jika dikerjakan
-- [ ] SectionList Mode (E3) — isi jika dikerjakan
-- [ ] Sort Produk (E4) — isi jika dikerjakan
+- [x] Filter Kategori (E1) — isi jika dikerjakan
+- [x] Toggle List/Grid View (E2) — isi jika dikerjakan
+- [x] SectionList Mode (E3) — isi jika dikerjakan
+- [x] Sort Produk (E4) — isi jika dikerjakan
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini]
+[<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e0d59b4-b8ac-4513-8065-bee68c7e79d7" />]
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+[<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/eccf3b38-cad7-4dda-afc7-31b1fe700a9d" />
+<img width="1080" height="2412" alt="image" src="https://github.com/user-attachments/assets/7cfd4e68-7444-4f9b-8cea-b9922918fea4" />]
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+[<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/91cededf-b2a1-47bc-96fa-bd22f5d77d9a" />]
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
